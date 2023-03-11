@@ -1,3 +1,3 @@
-# Churn-Baby-Churn
-
-prediciting customer churn using the Telco Telecommunications dataset...
+# Churn Baby Churn
+#### Predicting customer churn using the Telco Telecommunications dataset...
+#### (Click here for full report)[
